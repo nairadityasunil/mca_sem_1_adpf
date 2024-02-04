@@ -1,0 +1,9 @@
+Code : 101
+Name : Brief History Of Time
+Price : 100.000000
+Stock : 10
+
+Code : 102
+Name : Abc xyz
+Price : 200.000000
+Stock : 7
